@@ -455,28 +455,6 @@ src/tests/ProjectTestRunner.java
 
 for project-level testing.
 
----
-
-# 🎯 Learning Objectives
-
-This project demonstrates practical implementation of:
-
-* Graph theory
-* Graph traversal
-* Shortest-path algorithms
-* Minimum spanning trees
-* All-pairs shortest paths
-* Custom data structures
-* Hash tables
-* Heaps
-* Linked lists
-* Red-black trees
-* Disjoint sets
-* Command-line application design
-* Undo/redo concepts
-* Algorithmic problem solving
-
----
 
 <div align="center">
 
